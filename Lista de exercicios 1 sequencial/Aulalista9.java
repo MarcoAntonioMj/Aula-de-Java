@@ -1,11 +1,8 @@
 import java.util.Scanner;
-import java.text.DecimalFormat;
-
-public class Aulalista9 {
+public class Aulalista9
+{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        DecimalFormat df = new DecimalFormat("#0.00");
-
         // entrada
         System.out.print("Algoritmo de cálculo de segundos, digite os segundos: ");
         // processamento
@@ -21,5 +18,5 @@ public class Aulalista9 {
 
         sc.close();
     }
-}
+}    
 
