@@ -1,7 +1,8 @@
 import java.util.Scanner;
 public class Aulalista9
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Scanner sc = new Scanner(System.in);
         // entrada
         System.out.print("Algoritmo de cálculo de segundos, digite os segundos: ");
@@ -14,9 +15,7 @@ public class Aulalista9
 
         // saída
         System.out.println("Os segundos digitados foram " + segundosD + " segundos");
-        System.out.println("Convertendo para horas, minutos e segundos: " + horas + "h " + minutos + "m " + segundos + "s");
-
+        System.out.println( "Convertendo para horas, minutos e segundos: " + horas + "h " + minutos + "m " + segundos + "s");
         sc.close();
     }
-}    
-
+}
