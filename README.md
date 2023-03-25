@@ -4,7 +4,8 @@
 [Clique aqui para acessar aos exercicios](https://github.com/MarcoAntonioMj/Aula-de-Java/blob/main/lista_exercicio_III.pdf)
 
 
-Nessa aula fizemos dez exercicios sequencial logo a baixo listarei tudo de novo que aprendi.
+Nessa aula, fizemos dez exercícios sequenciais. Abaixo listarei tudo o que aprendi que antes não tinha conhecimento.
+
 
 ## Novo comandos. 
 -import java.text.DecimalFormat: fornecida na biblioteca padrão do Java para formatar números em strings de acordo com modelos específicos.
