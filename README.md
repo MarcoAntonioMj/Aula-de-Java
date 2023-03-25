@@ -7,7 +7,7 @@
 Nessa aula, fizemos dez exercícios sequenciais. Abaixo listarei tudo o que aprendi que antes não tinha conhecimento.
 
 
-## Novo comandos. 
+## Novos comandos. 
 -import java.text.DecimalFormat: fornecida na biblioteca padrão do Java para formatar números em strings de acordo com modelos específicos.
 
 - "Math." --  A classe "Math" em Java fornece funções matemáticas comuns, como cálculo de potência, cálculo de raiz quadrada, cálculo de seno, cosseno e tangente, além de funções trigonométricas e logarítmicas. Para usar essas funções em seu código Java, você precisa importar a classe "Math" usando a declaração de importação:
