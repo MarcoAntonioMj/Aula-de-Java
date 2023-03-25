@@ -7,7 +7,8 @@
 Nessa aula fizemos dez exercicios sequencial logo a baixo listarei tudo de novo que aprendi.
 
 ## Novo comandos. 
-- import java.text.DecimalFormat -- Fornecida na biblioteca padrão do Java para formatar números em strings de acordo com modelos específicos.
+-import java.text.DecimalFormat: fornecida na biblioteca padrão do Java para formatar números em strings de acordo com modelos específicos.
+
 - "Math." --  A classe "Math" em Java fornece funções matemáticas comuns, como cálculo de potência, cálculo de raiz quadrada, cálculo de seno, cosseno e tangente, além de funções trigonométricas e logarítmicas. Para usar essas funções em seu código Java, você precisa importar a classe "Math" usando a declaração de importação:
 ```
 import java.lang.Math;
@@ -19,7 +20,8 @@ double raizQuadrada = Math.sqrt(x);
 double senoDeX = Math.sin(x);
 double logaritmoDeX = Math.log(x);
 ```
-A saidas seria
+As saídas seriam:
+
 ```
 Raiz quadrada de 10.0 = 3.1622776601683795
 Seno de 10.0 = -0.5440211108893698
