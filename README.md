@@ -1,7 +1,7 @@
 # Aula-de-Java
 ## _Primeiros dez exercicios feito em saula de aula - Lista sequencial._
 
-[Clique aqui para acessar as perguntas](URL do link)
+[Clique aqui para acessar aos exercicios](https://github.com/MarcoAntonioMj/Aula-de-Java/blob/main/lista_exercicio_III.pdf)
 
 
 Nessa aula fizemos dez exercicios sequencial logo a baixo listarei tudo de novo que aprendi.
