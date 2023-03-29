@@ -1,5 +1,5 @@
 # Aula-de-Java
-## _Primeiros dez exercicios feito em saula de aula - Lista sequencial._
+## _Primeiros dez exercicios feito em sala de aula - Lista sequencial._
 
 [Clique aqui para acessar aos exercicios](https://github.com/MarcoAntonioMj/Aula-de-Java/blob/main/lista_exercicio_1.pdf)
 
