@@ -1,27 +1,21 @@
 import java.util.Scanner;
-
-public class Aulalista8 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-
-        // ENTRADA
-        System.out.println("*Algoritmo de calculo*");
-        System.out.print("Quantos veículos há no estacionamento? ");
-        int totalVeiculos = sc.nextInt();
-        System.out.print("Quantas rodas estão no estacionamento? ");
-        int totalRodas = sc.nextInt();
-
-        // PROCESSAMENTO
-        int qtdMaxCarros = totalRodas / 4;
-        int qtdCarros = Math.min(qtdMaxCarros, totalVeiculos);
-        int qtdMotos = totalVeiculos - qtdCarros;
-
-        // SAIDA
-        System.out.println("Há " + qtdCarros + " carros e " + qtdMotos + " motos no estacionamento.");
-        sc.close();
-    }
-}
-
-
-
-
+public class Main {
+    public static void Aulalista8 (String[]args)
+  {
+    Scanner sc = new Scanner (System.in);
+    //ENTRADA
+      System.out.println ("**Algoritmo de calculo**");
+      System.out.print ("Quanto o total de veiculos ? ");
+      int totalVeiculos = sc.nextInt ();
+      System.out.print ("Quanto o total de rodas ? ");
+      int totalRodas = sc.nextInt ();
+    //PROCESSAMENTO
+    int paresRoda = totalRodas/2;
+    int motos = paresRoda - totalVeiculos;
+    totalRodas = totalRodas - motos * 2;
+    int carros = totalRodas/4;
+    //SAIDA
+    System.out.println("Há " + carros + " carros e " + motos + " motos no estacionamento.");
+    sc.close();
+	}
+	}
